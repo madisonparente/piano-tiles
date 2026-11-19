@@ -1,2 +1,2 @@
 # piano-tiles
-CPE 487 Final Project 
+By Julianne Cifrodella, Mikayla Minton, and Madison Parente
